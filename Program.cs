@@ -49,7 +49,8 @@ namespace Bonus17
                             
                 if (select == "y")
                 {
-                    Console.WriteLine(" Excellent! Our finance department will be in touch shortly.");
+                    Console.WriteLine(" Excellent! Our finance department will be in touch shortly. Thanks!");
+                    break;
                 }
                 else
                 {
